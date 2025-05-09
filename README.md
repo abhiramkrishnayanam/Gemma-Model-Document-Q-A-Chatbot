@@ -1,7 +1,7 @@
 # Gemma Model Document Q&A Chatbot - Project Overview
 
-This project is a document-based Q&A chatbot that allows users to upload a PDF, process its content, and ask questions based on the document. The chatbot utilizes Groq-based models, Langchain for document processing, and FAISS for efficient document retrieval.
 
+This project is a document-based Q&A chatbot that allows users to upload a PDF, process its content, and ask questions based on the document. The chatbot utilizes RAG (Retrieval-Augmented Generation), Groq-based models, Langchain for document processing, and FAISS for efficient document retrieval.
 ## 🔄 Project Workflow
 
 ### 1. **User Uploads a PDF**
